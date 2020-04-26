@@ -35,7 +35,7 @@ footer {
   flex-direction: column;;
 }
 .item {
-flex: 0;
+flex: auto;
   width: 300px;
   margin: 5px;
   background-color: #FCF2EC;
