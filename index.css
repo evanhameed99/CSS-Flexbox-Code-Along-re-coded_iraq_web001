@@ -34,7 +34,11 @@ footer {
 }
 .item {
  flex-basis: 50%;
- 
+
   margin: 5px;
   background-color: #FCF2EC;
+}
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
 }
